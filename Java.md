@@ -36,6 +36,15 @@ Para poder ejecutar Intellj desde la consola se tiene que hacer un enlace
 sudo ln -s /opt/idea-IU-223.8214.52/bin/idea.sh /usr/local/bin/idea
 ```
 
+## Tutoriales Java
+
+- https://www.oracle.com/java/technologies/language-environment.html
+
+- https://docs.oracle.com/javase/tutorial/index.html
+
+
+
+
 ## GITHUB
 
 Trabajar en el mismo repositorio desde dos maquinas distintas
@@ -103,5 +112,23 @@ Luego de hacer el pull te pedirá tus credenciales (username y password) y estos
 Pero la recomendacion es configurar una conexión ssh
 
 https://docs.github.com/es/authentication/connecting-to-github-with-ssh
+
+Aqui esta un prueba de primavera 2022
+
+```
+git config --global user.name "usuario"
+git config --global user.email "correo.com"
+git config --list
+ls /al ~/.ssh
+ls -al ~/.ssh
+cd ~/.ssh
+ssh-keygen -t ed25519 -C "correo"
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_ed25519¿
+cat ~/.ssh/id_ed25519.pub
+```
+
+
+
 
 
