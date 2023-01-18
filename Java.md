@@ -77,3 +77,14 @@ git remote add origin https://github.com/rafneta/Recetas.git
 git branch -M main
 git push -u origin main
 ```
+
+
+Evitar pedir credenciales una vez que que esto suceda 
+
+https://www.freecodecamp.org/espanol/news/como-evitar-que-git-siempre-solicite-las-credenciales-de-usuario/
+
+Lo mejor es hacer al conexión remota por ssh si iniciamelnte dfue por https entonces podemos cambair a ssh con la sigueinte instrucción 
+
+```
+git remote set-url origin git@github.com:username/repo.git
+```
