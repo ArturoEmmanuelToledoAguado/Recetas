@@ -86,5 +86,22 @@ https://www.freecodecamp.org/espanol/news/como-evitar-que-git-siempre-solicite-l
 Lo mejor es hacer al conexión remota por ssh si iniciamelnte dfue por https entonces podemos cambair a ssh con la sigueinte instrucción 
 
 ```
-git remote set-url origin git@github.com:username/repo.git
+git remote set-url origin git@github.com:username/repo.git¿
 ```
+Podemos administrar las credenciales 
+https://docs.github.com/es/get-started/getting-started-with-git/caching-your-github-credentials-in-git?platform=linux
+
+1. Abrir una terminal (Control + Alt + T)
+2. Tirar el siguiente comando:
+   - git config --global credential.helper store
+3. Asegurarse de estar parado en una carpeta que sea un repo cualquiera
+Hacer un pull: (esto va a funcionar aunque no haya nada que pullear)
+   - git pull
+
+Luego de hacer el pull te pedirá tus credenciales (username y password) y estos datos serán guardados en un archivo en el disco (en la ubicación ~/.git-credentials). Esto quiere decir que no te los pedirá mas.
+
+Pero la recomendacion es configurar una conexión ssh
+
+https://docs.github.com/es/authentication/connecting-to-github-with-ssh
+
+
