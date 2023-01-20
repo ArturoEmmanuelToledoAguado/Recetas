@@ -129,6 +129,13 @@ cat ~/.ssh/id_ed25519.pub
 ```
 
 
+# GITHUB
 
+Establecer el bash como consola default
+
+```
+chsh -s /bin/bash
+
+```
 
 
