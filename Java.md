@@ -153,6 +153,7 @@ Git with vscode https://code.visualstudio.com/docs/sourcecontrol/overview
 
 Working with GitHub in VS Code https://code.visualstudio.com/docs/sourcecontrol/github#_github-repositories-extension
 
+cursoso de microsoft https://learn.microsoft.com/en-us/training/paths/intro-to-vc-git/
 
 
 # Consola cursos
