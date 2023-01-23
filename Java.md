@@ -147,6 +147,8 @@ Para hacer de colores la terminal
 
 # Git Cursos
 
+Git for authors https://pretextbook.org/gfa/html/frontmatter-1.html
+
 # Consola cursos
 
 Bash Guide https://guide.bash.academy/commands/#
