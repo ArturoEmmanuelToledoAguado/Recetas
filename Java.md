@@ -138,4 +138,21 @@ chsh -s /bin/bash
 
 ```
 
+Para hacer de colores la terminal
+
+1. download the zipped file from the Resources pane, or the bottom of this page
+2. move the directory udacity-terminal-config to your home directory and name it .udacity-terminal-config (there's a dot at the front, now!)
+3. move the bash_profile file to your home directory and name it .bash_profile (there's a dot at the front, now!)
+   - if you already have a .bash_profile file in your home directory, transfer the content from the downloaded bash_profile to your existing .bash_profile
+
+# Git Cursos
+
+# Consola cursos
+
+Bash Guide https://guide.bash.academy/commands/#
+Bash guide for Beginners https://tldp.org/LDP/Bash-Beginners-Guide/html/
+Bash programming INtroduiction how to https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
+Tranajar con expresiones regulares interactiva https://regexr.com/
+Terminal cheatSheet MAc https://github.com/0nn0/terminal-mac-cheatsheet/tree/master/Espa%C3%B1ol
+Linux command https://ss64.com/bash/
 
