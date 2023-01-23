@@ -149,6 +149,12 @@ Para hacer de colores la terminal
 
 Git for authors https://pretextbook.org/gfa/html/frontmatter-1.html
 
+Git with vscode https://code.visualstudio.com/docs/sourcecontrol/overview
+
+Working with GitHub in VS Code https://code.visualstudio.com/docs/sourcecontrol/github#_github-repositories-extension
+
+
+
 # Consola cursos
 
 Bash Guide https://guide.bash.academy/commands/#
