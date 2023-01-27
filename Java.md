@@ -165,3 +165,31 @@ Tranajar con expresiones regulares interactiva https://regexr.com/
 Terminal cheatSheet MAc https://github.com/0nn0/terminal-mac-cheatsheet/tree/master/Espa%C3%B1ol
 Linux command https://ss64.com/bash/
 
+The linux command line for beginners (ubuntu) https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
+
+Pàgina de github con contenido curado https://learnbyexample.github.io/curated_resources/linux_cli_scripting.html
+
+
+
+# Programación 
+
+Introducción a la sínteis de porgramas 2022 Armando Solar-Lezama https://people.csail.mit.edu/asolar/SynthesisCourse/index.htm
+
+
+Software contruction Armando Solar-Lezama https://web.mit.edu/6.031/www/sp19/
+
+Understandong the world Through COde http://www.neurosymbolic.org/index.html
+
+Create interactive content with PlaySkript https://code.playskript.com
+
+
+Dynamnic Computer http://6.s081.scripts.mit.edu/sp18/schedule.html
+
+# Machine learning
+
+Practical machine learning  https://c.d2l.ai/stanford-cs329p/syllabus.html
+
+
+
+
+
